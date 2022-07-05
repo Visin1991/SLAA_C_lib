@@ -397,4 +397,5 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
-/FBXSDK/debugger/
+/FBXSDK/debugger/*.lib
+/FBXSDK/debugger/*.dll
